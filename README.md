@@ -37,7 +37,6 @@ pelatihan-ai/
    ```bash
    git clone https://github.com/namauser/pelatihan-ai.git
    cd pelatihan-ai
-````
 
 2. Buat virtual environment:
 
